@@ -1,0 +1,303 @@
+{
+  "appPolicies" : {
+    "eula" : "",
+    "policies" : [
+      {
+        "locale" : "en_US",
+        "policyText" : "",
+        "policyURL" : ""
+      }
+    ]
+  },
+  "identifier" : "F4864F30",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+    {
+      "displayPrice" : "12.99",
+      "familyShareable" : false,
+      "internalID" : "1590497693",
+      "localizations" : [
+        {
+          "description" : "120 Minutes $12.99",
+          "displayName" : "120 Minutes $12.99",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "120_min_12_99",
+      "referenceName" : "120 Minutes $12.99",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "18.99",
+      "familyShareable" : false,
+      "internalID" : "1590497787",
+      "localizations" : [
+        {
+          "description" : "240 Minutes $18.99",
+          "displayName" : "240 Minutes $18.99",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "240_min_18_99",
+      "referenceName" : "240 Minutes $18.99",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "4.99",
+      "familyShareable" : false,
+      "internalID" : "1590496708",
+      "localizations" : [
+        {
+          "description" : "30 Minutes video recording time",
+          "displayName" : "30 Minutes $4.99",
+          "locale" : "en_GB"
+        }
+      ],
+      "productID" : "30_min_4_99",
+      "referenceName" : "30 Minutes $4.99",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "9.99",
+      "familyShareable" : false,
+      "internalID" : "1590497442",
+      "localizations" : [
+        {
+          "description" : "60 Minutes $9.99",
+          "displayName" : "60 Minutes $9.99",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "60_min_9_99",
+      "referenceName" : "60 Minutes $9.99",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "11.99",
+      "familyShareable" : false,
+      "internalID" : "1590497457",
+      "localizations" : [
+        {
+          "description" : "90 Minutes $11.99",
+          "displayName" : "90 Minutes $11.99",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "90_min_11_99",
+      "referenceName" : "90 Minutes $11.99",
+      "type" : "Consumable"
+    }
+  ],
+  "settings" : {
+    "_applicationInternalID" : "1558134911",
+    "_developerTeamID" : "FAZ4DA92DC",
+    "_failTransactionsEnabled" : false,
+    "_lastSynchronizedDate" : 747592227.59832096,
+    "_locale" : "en_US",
+    "_storefront" : "USA",
+    "_storeKitErrors" : [
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Load Products"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Purchase"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Verification"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "App Store Sync"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Subscription Status"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "App Transaction"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Manage Subscriptions Sheet"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Refund Request Sheet"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Offer Code Redeem Sheet"
+      }
+    ]
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "20902531",
+      "localizations" : [
+
+      ],
+      "name" : "Skiwitness monthly subscription",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "12.99",
+          "familyShareable" : false,
+          "groupNumber" : 5,
+          "internalID" : "1619799439",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "120 Minutes $12.99 / Month",
+              "displayName" : "120 Minutes $12.99 / Month",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "auto_120_min_12_99",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "120 Minutes $12.99 / Month",
+          "subscriptionGroupID" : "20902531",
+          "type" : "RecurringSubscription",
+          "winbackOffers" : [
+
+          ]
+        },
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "18.99",
+          "familyShareable" : false,
+          "groupNumber" : 6,
+          "internalID" : "1619800174",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "240 Minutes $18.99 / Month",
+              "displayName" : "240 Minutes $18.99 / Month",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "auto_240_min_18_99",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "240 Minutes $18.99 / Month",
+          "subscriptionGroupID" : "20902531",
+          "type" : "RecurringSubscription",
+          "winbackOffers" : [
+
+          ]
+        },
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "4.99",
+          "familyShareable" : false,
+          "groupNumber" : 2,
+          "internalID" : "1619793576",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "30 Minutes $4.99 / Month",
+              "displayName" : "30 Minutes $4.99 / Month",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "auto_30_min_4_99",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "30 Minutes $4.99 / Month",
+          "subscriptionGroupID" : "20902531",
+          "type" : "RecurringSubscription",
+          "winbackOffers" : [
+
+          ]
+        },
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "9.99",
+          "familyShareable" : false,
+          "groupNumber" : 3,
+          "internalID" : "1619797284",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "60 Minutes $9.99 / Month",
+              "displayName" : "60 Minutes $9.99 / Month",
+              "locale" : "en_GB"
+            }
+          ],
+          "productID" : "auto_60_min_9_99",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "60 Minutes $9.99 / Month",
+          "subscriptionGroupID" : "20902531",
+          "type" : "RecurringSubscription",
+          "winbackOffers" : [
+
+          ]
+        },
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "11.99",
+          "familyShareable" : false,
+          "groupNumber" : 4,
+          "internalID" : "1619799016",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "90 Minutes $11.99 / Month",
+              "displayName" : "90 Minutes $11.99 / Month",
+              "locale" : "en_GB"
+            }
+          ],
+          "productID" : "auto_90_min_11_99",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "90 Minutes $11.99 / Month",
+          "subscriptionGroupID" : "20902531",
+          "type" : "RecurringSubscription",
+          "winbackOffers" : [
+
+          ]
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 4,
+    "minor" : 0
+  }
+}
